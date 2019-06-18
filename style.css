@@ -1,0 +1,33 @@
+header,nav,section,aside,footer {
+    background-color: #ebebeb;
+    text-align: center;
+    padding: 20px;
+    margin: 10px;
+    
+}
+
+section { 
+    float: left;
+    width: 60%;
+}
+
+aside {
+    float: left;
+    width: 32%;
+    height: 66%;
+}
+
+article {
+    padding: 10px;
+}
+
+p{
+    text-align: left;
+    padding: 20px;
+}
+
+footer{
+    clear: both;
+    margin: 10px;
+}
+
